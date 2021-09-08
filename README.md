@@ -26,18 +26,18 @@ Here are some ideas to get you started:
 
 - 👯 I’m looking to collaborate on **open source/community projects**
 
-- 📝 I regulary write articles/tips on my linkedIn page, say hi if you see one 
+- 📝 I regularly write articles/tips on my linkedIn page, say hi if you see one 
 
-- 💬 Ask me about **Android, flutter, dart and open source, or anything really if i don't know we will enjoy discovering otgether **
+- 💬 Ask me about **Android, flutter, dart and open source, or anything really if I don't know we will enjoy discovering together  **
 
 - 🌱 I’m currently learning **More and more ways of making and breaking things**
 
-- 📫 Shoot -=> me an mail at **mosz3r0@gmail.com**
+- 📫 Shoot -=> me an email at **mosz3r0@gmail.com**
 
-- ⚡ Fun fact: The universe is expanding into a canvas that's constantly throwing StackOverFLow Exceptions but we can handle it .
+- ⚡ Fun fact: The universe is expanding into a canvas that's constantly throwing StackOverFLow Exceptions but we can handle it.
 
 ### What can I help with:question::cyclone:
-<code>git commit -m "Pretty much any technical quesion you have!"</code> :grin:
+<code>git commit -m "Pretty much any technical enigmas you have!"</code> :grin:
 
 - A smile can change the world!
 
