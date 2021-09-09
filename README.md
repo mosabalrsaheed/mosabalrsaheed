@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 - 👯 I’m looking to collaborate on **open source/community projects**
 
-- 📝 I regularly write articles/tips on my linkedIn page, say hi if you see one 
+- 📝 I regularly write articles/tips on my the magical place called the internet, say hi if you see one 
 
 - 💬 Ask me about **Android, flutter, dart and open source, or anything really if I don't know we will enjoy discovering together  **
 
