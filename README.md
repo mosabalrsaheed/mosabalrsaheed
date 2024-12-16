@@ -12,11 +12,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">AlSalam Alaikoum (Peace on you) 👋, I'm Mosab Alrasheed</h1>
+<h1 align="center">AlSalam Alaikoum (Peace be with you) 👋, I'm Mosab Alrasheed</h1>
 <h3 align="center">An 🔥 Introvert, Technical/Tactical, Neutral, Tinkerer 🌟</h3>
 <h2 align="left">
  <abc>
-  <br> A guy who reads code <img src="https://avatars.githubusercontent.com/u/11941555?v=4" width="50"><br>
+  <br> I read code for living, and enjoy it. <img src="https://avatars.githubusercontent.com/u/11941555?v=4" width="50"><br>
   <br>
     <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
  </abc>
